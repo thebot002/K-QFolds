@@ -12,7 +12,7 @@ University of Genova
 
 ---
 
-Proffessors:
+Professors:
 
 - Nicoletta Noceti
 
